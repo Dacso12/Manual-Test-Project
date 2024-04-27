@@ -1,4 +1,4 @@
-#Manual Testing Project
+Manual Testing Project
 
 This repository contains resources and templates for manual testing, focusing on bug reporting and test case design for web and mobile applications.
 
